@@ -6,7 +6,7 @@
 
   Server based app for note taking.
 
-  <img src="C:\Users\Brandon McGuire\Pictures\note-taker.jpg"></img>
+  <img src="public\assets\images\note-taker.jpg"></img>
 
   ## Heroku Link
 
